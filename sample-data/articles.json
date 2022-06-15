@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "title": "How to ride a bicycle",
+      "date": "2022-04-13",
+      "tags": ["bicycles", "life-skills", "fun"]
+    },
+    {
+      "title": "Top 5 programming languages",
+      "date": "2022-04-22",
+      "tags": ["technology", "fun"]
+    },
+    {
+      "title": "Ovens vs. microwaves",
+      "date": "2022-05-01",
+      "tags": ["ovens", "microwaves", "kitchen"]
+    },
+    {
+      "title": "Tying shoes",
+      "date": "2022-05-18",
+      "tags": ["life-skills", "shoes"]
+    },
+    {
+      "title": "Cooking spaghetti and more",
+      "date": "2022-06-08",
+      "tags": ["life-skills", "kitchen"]
+    }
+  ],
+  "numberOfArticles": 5,
+  "availableTags": ["bicycles", "fun", "kitchen", "life-skills", "microwaves", "ovens", "shoes", "technology"]
+}
